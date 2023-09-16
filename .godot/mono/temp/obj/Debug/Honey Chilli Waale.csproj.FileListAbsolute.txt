@@ -1,0 +1,17 @@
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\bin\Debug\Honey Chilli Waale.deps.json
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\bin\Debug\Honey Chilli Waale.runtimeconfig.json
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\bin\Debug\Honey Chilli Waale.dll
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\bin\Debug\Honey Chilli Waale.pdb
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\obj\Debug\Honey Chilli Waale.csproj.AssemblyReference.cache
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\obj\Debug\Honey Chilli Waale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\obj\Debug\Honey Chilli Waale.AssemblyInfoInputs.cache
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\obj\Debug\Honey Chilli Waale.AssemblyInfo.cs
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\obj\Debug\Honey Chilli Waale.csproj.CoreCompileInputs.cache
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\obj\Debug\Honey Chilli Waale.csproj.CopyComplete
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\obj\Debug\Honey Chilli Waale.dll
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\obj\Debug\refint\Honey Chilli Waale.dll
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\obj\Debug\Honey Chilli Waale.pdb
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\obj\Debug\Honey Chilli Waale.genruntimeconfig.cache
+C:\Godot\HoneyChillVeryCool\HoneyChillNew2\.godot\mono\temp\obj\Debug\ref\Honey Chilli Waale.dll

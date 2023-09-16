@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vzgv4kNdreZ8zyrdbEmYt9bPtO+H++en/ZA7h4IxjDbMVVBLX1+WCUbH79jrA7rhoPt9Kj8P3LoHljZJFBPuEA==",
+  "success": true,
+  "projectFilePath": "C:\\Godot\\HoneyChillVeryCool\\HoneyChillNew2\\Honey Chilli Waale.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aakash.gupta\\.nuget\\packages\\godot.sourcegenerators\\4.1.1\\godot.sourcegenerators.4.1.1.nupkg.sha512",
+    "C:\\Users\\aakash.gupta\\.nuget\\packages\\godotsharp\\4.1.1\\godotsharp.4.1.1.nupkg.sha512",
+    "C:\\Users\\aakash.gupta\\.nuget\\packages\\godotsharpeditor\\4.1.1\\godotsharpeditor.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
